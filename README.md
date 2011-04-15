@@ -28,14 +28,14 @@ Zend Framework 2 requires PHP 5.3 or later.
 INSTALLATION
 ------------
 
-Please see INSTALL.txt.
+Please see INSTALL.md.
 
 CONTRIBUTING
 ------------
 
 If you wish to contribute to Zend Framework 2.0, please make sure you have
 signed a CLA (http://framework.zend.com/cla), and please read both the
-README-DEV.txt and README-GIT.txt file.
+README-DEV.md and README-GIT.md file.
 
 QUESTIONS AND FEEDBACK
 ----------------------
